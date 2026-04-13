@@ -2,7 +2,7 @@
 
 Projet réalisé en première année de classe préparatoire (CPGE). Il s'agit d'une implémentation complète du célèbre jeu de Memory, jouable directement dans le terminal.
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - **Moteur de jeu complet** : Gestion d'un paquet de 52 cartes, mélange aléatoire et distribution sur un tapis de 4x13.
 - **Affichage dynamique** : Rendu visuel du tapis en mode texte (ASCII) avec mise à jour en temps réel de l'état des cartes (cachées, révélées ou retirées).
@@ -12,7 +12,7 @@ Projet réalisé en première année de classe préparatoire (CPGE). Il s'agit d
 - **Niveaux de difficulté** : Paramétrage de l'intelligence de l'ordinateur.
 - **Scénario de démonstration** : Script inclus pour illustrer le déroulement d'une partie.
 
-## 🛠️ Structure du Projet
+## Structure du Projet
 
 L'architecture est modulaire pour séparer la logique métier de l'affichage :
 
@@ -22,7 +22,7 @@ L'architecture est modulaire pour séparer la logique métier de l'affichage :
 - `scenario.py` : Script de démonstration des fonctionnalités (initialisation, retournement, retrait).
 - `tapis.py`, `paires.py`, `ordinateur.py` (etc.) : Modules de gestion des données et de l'IA.
 
-## 🎮 Comment jouer ?
+## Comment jouer ?
 
 ### Prérequis
 - Python 3.x installé.
