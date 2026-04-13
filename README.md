@@ -1,6 +1,8 @@
-# Jeu du Memory - Python (Console Edition)
+# Jeu du Memory - Python
 
-Projet réalisé en prépa dans le cadre d'un projet d'informatique. Il s'agit d'une implémentation complète du célèbre jeu de Memory, jouable directement dans le terminal.
+Projet réalisé en prépa dans le cadre d'un projet d'informatique.
+Il s'agit d'une implémentation complète du célèbre jeu de Memory, 
+jouable directement dans le terminal ou sur éditeur python et codé depuis VSCode.
 
 ## Fonctionnalités
 
