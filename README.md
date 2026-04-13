@@ -1,6 +1,6 @@
 # Jeu du Memory - Python (Console Edition)
 
-Projet réalisé en première année de classe préparatoire (CPGE). Il s'agit d'une implémentation complète du célèbre jeu de Memory, jouable directement dans le terminal.
+Projet réalisé en prépa dans le cadre d'un projet d'informatique. Il s'agit d'une implémentation complète du célèbre jeu de Memory, jouable directement dans le terminal.
 
 ## Fonctionnalités
 
